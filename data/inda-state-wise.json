@@ -1,104 +1,104 @@
 [
     {
         "statename": "AndhraPradesh",
-        "total_confirmed": "226",
-        "total_discharged": "1",
-        "total_death": "3"
+        "total_confirmed": "503",
+        "total_discharged": "16",
+        "total_death": "9"
     },
     {
         "statename": "AndamanNicobar",
-        "total_confirmed": "10",
-        "total_discharged": "0",
+        "total_confirmed": "11",
+        "total_discharged": "10",
         "total_death": "0"
     },
     {
         "statename": "Bihar",
-        "total_confirmed": "32",
-        "total_discharged": "0",
+        "total_confirmed": "70",
+        "total_discharged": "29",
         "total_death": "1"
     },
     {
         "statename": "Chandigarh",
-        "total_confirmed": "18",
-        "total_discharged": "0",
+        "total_confirmed": "21",
+        "total_discharged": "7",
         "total_death": "0"
     },
     {
         "statename": "Chhattisgarh",
-        "total_confirmed": "10",
-        "total_discharged": "8",
+        "total_confirmed": "33",
+        "total_discharged": "13",
         "total_death": "0"
     },
     {
         "statename": "Delhi",
-        "total_confirmed": "523",
-        "total_discharged": "19",
-        "total_death": "7"
+        "total_confirmed": "1561",
+        "total_discharged": "30",
+        "total_death": "30"
     },
     {
         "statename": "Goa",
         "total_confirmed": "7",
-        "total_discharged": "0",
+        "total_discharged": "5",
         "total_death": "0"
     },
     {
         "statename": "Gujarat",
-        "total_confirmed": "144",
-        "total_discharged": "22",
-        "total_death": "12"
+        "total_confirmed": "695",
+        "total_discharged": "59",
+        "total_death": "30"
     },
     {
         "statename": "Haryana",
-        "total_confirmed": "84",
-        "total_discharged": "25",
-        "total_death": "1"
+        "total_confirmed": "199",
+        "total_discharged": "34",
+        "total_death": "3"
     },
     {
         "statename": "HimachalPradesh",
-        "total_confirmed": "13",
-        "total_discharged": "2",
+        "total_confirmed": "33",
+        "total_discharged": "13",
         "total_death": "1"
     },
     {
         "statename": "J & K",
-        "total_confirmed": "109",
-        "total_discharged": "4",
-        "total_death": "2"
-    },
-    {
-        "statename": "Karnataka",
-        "total_confirmed": "151",
-        "total_discharged": "12",
+        "total_confirmed": "278",
+        "total_discharged": "30",
         "total_death": "4"
     },
     {
+        "statename": "Karnataka",
+        "total_confirmed": "277",
+        "total_discharged": "75",
+        "total_death": "11"
+    },
+    {
         "statename": "Kerala",
-        "total_confirmed": "314",
-        "total_discharged": "55",
-        "total_death": "2"
+        "total_confirmed": "387",
+        "total_discharged": "211",
+        "total_death": "3"
     },
     {
         "statename": "Ladakh",
-        "total_confirmed": "14",
+        "total_confirmed": "17",
         "total_discharged": "10",
         "total_death": "0"
     },
     {
         "statename": "MP",
-        "total_confirmed": "165",
-        "total_discharged": "0",
-        "total_death": "9"
+        "total_confirmed": "987",
+        "total_discharged": "64",
+        "total_death": "53"
     },
     {
         "statename": "Maharashtra",
-        "total_confirmed": "748",
-        "total_discharged": "56",
-        "total_death": "45"
+        "total_confirmed": "2687",
+        "total_discharged": "259",
+        "total_death": "178"
     },
     {
         "statename": "Manipur",
         "total_confirmed": "2",
-        "total_discharged": "0",
+        "total_discharged": "1",
         "total_death": "0"
     },
     {
@@ -109,74 +109,86 @@
     },
     {
         "statename": "Odisha",
-        "total_confirmed": "21",
-        "total_discharged": "2",
-        "total_death": "0"
+        "total_confirmed": "60",
+        "total_discharged": "18",
+        "total_death": "1"
     },
     {
         "statename": "Puducherry",
-        "total_confirmed": "5",
+        "total_confirmed": "7",
         "total_discharged": "1",
         "total_death": "0"
     },
     {
         "statename": "Punjab",
-        "total_confirmed": "76",
-        "total_discharged": "4",
-        "total_death": "6"
+        "total_confirmed": "186",
+        "total_discharged": "14",
+        "total_death": "13"
     },
     {
         "statename": "Rajasthan",
-        "total_confirmed": "274",
-        "total_discharged": "21",
-        "total_death": "0"
+        "total_confirmed": "1005",
+        "total_discharged": "147",
+        "total_death": "3"
     },
     {
         "statename": "TamilNadu",
-        "total_confirmed": "571",
-        "total_discharged": "8",
-        "total_death": "5"
+        "total_confirmed": "1204",
+        "total_discharged": "81",
+        "total_death": "12"
     },
     {
         "statename": "Telengana",
-        "total_confirmed": "321",
-        "total_discharged": "34",
-        "total_death": "7"
+        "total_confirmed": "647",
+        "total_discharged": "120",
+        "total_death": "18"
     },
     {
         "statename": "Uttarakhand",
-        "total_confirmed": "26",
-        "total_discharged": "4",
+        "total_confirmed": "37",
+        "total_discharged": "9",
         "total_death": "0"
     },
     {
         "statename": "UttarPradesh",
-        "total_confirmed": "305",
-        "total_discharged": "21",
-        "total_death": "3"
+        "total_confirmed": "735",
+        "total_discharged": "51",
+        "total_death": "11"
     },
     {
         "statename": "West Bengal",
-        "total_confirmed": "80",
-        "total_discharged": "10",
-        "total_death": "3"
+        "total_confirmed": "213",
+        "total_discharged": "37",
+        "total_death": "7"
     },
     {
         "statename": "Assam",
-        "total_confirmed": "26",
+        "total_confirmed": "33",
         "total_discharged": "0",
-        "total_death": "0"
+        "total_death": "1"
     },
     {
         "statename": "Jharkhand",
-        "total_confirmed": "4",
+        "total_confirmed": "27",
         "total_discharged": "0",
-        "total_death": "0"
+        "total_death": "2"
     },
     {
         "statename": "Arunachal Pradesh",
         "total_confirmed": "1",
         "total_discharged": "0",
         "total_death": "0"
+    },
+    {
+        "statename": "Tripura",
+        "total_confirmed": "2",
+        "total_discharged": "0",
+        "total_death": "0"
+    },
+    {
+        "statename": "Meghalaya",
+        "total_confirmed": "7",
+        "total_discharged": "0",
+        "total_death": "1"
     }
 ]

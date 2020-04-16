@@ -72,7 +72,7 @@ const covid19StateWiseUpdate = async () => {
      console.log("number of results: "+results.length);
      exportResults(results, "data/inda-state-wise.json");
     }).catch(err => {
-     console.log("Error while fetching top rated movies with error :::: "+err);
+     console.log("Error while fetching top data with error :::: "+err);
     })
     
   }, 600000);
