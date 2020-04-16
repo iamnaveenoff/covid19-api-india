@@ -44,9 +44,10 @@ const userRoutes = (app, fs) => {
           author: 'Naveen Kumar',
           entries: [
             {
-              "Emergency Contact": "/emergency",
+              "World Data": "/all",
+              "Emergency Contact in tamilnadu": "/emergency",
               "State Wise Data": "/state",
-              "Source": "www.mygov.in, www.stopcoronatn.in"
+              "Source": "www.mygov.in, www.stopcoronatn.in,www.worldometers.info"
             }
           ],
           contact_Me: [
