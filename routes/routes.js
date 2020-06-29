@@ -26,6 +26,16 @@ const userRoutes = (app, fs) => {
             res.send(JSON.parse(data));
         });
     });
+    
+    app.get('/findall', (req, res) => {
+      fs.readFile(TN_district_data, 'utf8', (err, data) => {
+          if (err) {
+              throw err;
+          }
+
+          res.send(JSON.parse(data));
+      });
+  });
 
     app.get('/all', (req, res) => {
       fs.readFile(World_Stats_data, 'utf8', (err, data) => {
